@@ -1,6 +1,6 @@
 ### Eclipse ###
-
-Projects/.metadata/
-
-Projects/*/bin/
-Projects/*/.settings/
+/.metadata/
+jessentials/.settings/
+jessentials/jessentials.*/bin/
+jessentials/jessentials.*/.settings/
+/.metadata/
